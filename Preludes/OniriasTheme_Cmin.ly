@@ -115,7 +115,7 @@
       g bes8 aes g4 f |
       es4 es,4. d'16 c bes8 aes |
       f'4 f,4. f'16 es d8 c |
-      d4 d,4. f16' es d8 aes' |
+      d4 d,4. f'16 es d8 aes' |
       g4 bes8 aes g4 f |
       
       c,1  ~ | 1 ~ | 1 ~ | 1 ~ | 2 bes'2 |
